@@ -1,0 +1,20 @@
+{
+    "items": [
+        "POWER_WITHER_HELMET",
+        "POWER_WITHER_CHESTPLATE",
+        "POWER_WITHER_LEGGINGS",
+        "POWER_WITHER_BOOTS",
+        "JUJU_SHORTBOW",
+        "TERMINATOR",
+        "NECRON_BLADE",
+        "HYPERION",
+        "ASTREA",
+        "VALKYRIE",
+        "SCYLLA"
+    ],
+    "enchantments": [
+        "SOUL_EATER",
+        "OVERLOAD",
+        "CHIMERA"
+    ]
+}

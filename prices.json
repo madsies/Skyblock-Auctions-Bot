@@ -1,0 +1,79 @@
+{
+    "POWER_WITHER_HELMET": {
+        "lowest": 14490000,
+        "second_lowest": 14500000,
+        "lowest_id": "f4350059aa6f4ff9852d6a6b3d7306d7",
+        "average": 21855088.91044776,
+        "profit_margin": 10000
+    },
+    "POWER_WITHER_CHESTPLATE": {
+        "lowest": 33199999,
+        "second_lowest": 33200000,
+        "lowest_id": "35f9ae4154294f16a1be23fabbd5b883",
+        "average": 48013308.07692308,
+        "profit_margin": 1
+    },
+    "POWER_WITHER_LEGGINGS": {
+        "lowest": 17500000,
+        "second_lowest": 17690000,
+        "lowest_id": "01a6bf71f9124faaa3d48d0b2420800c",
+        "average": 31663639.817142855,
+        "profit_margin": 190000
+    },
+    "POWER_WITHER_BOOTS": {
+        "lowest": 13400000,
+        "second_lowest": 13400000,
+        "lowest_id": "60d1048a59eb4ab9b4b91059e5ee5413",
+        "average": 28107820.77922078,
+        "profit_margin": 0
+    },
+    "JUJU_SHORTBOW": {
+        "lowest": 24190000,
+        "second_lowest": 24199999,
+        "lowest_id": "c907d26f05c140fda42e002f69af34ae",
+        "average": 40420995.19749216,
+        "profit_margin": 9999
+    },
+    "TERMINATOR": {
+        "lowest": 796000000,
+        "second_lowest": 848000000,
+        "lowest_id": "87ff7d81aa4d4719b73eaf482b298ff2",
+        "average": 851799999.6,
+        "profit_margin": 52000000
+    },
+    "NECRON_BLADE": {
+        "lowest": 2200000000,
+        "second_lowest": 2220000000,
+        "lowest_id": "none",
+        "average": 0,
+        "profit_margin": 20000000
+    },
+    "HYPERION": {
+        "lowest": 591999000,
+        "second_lowest": 596600000,
+        "lowest_id": "e72f61585e204f3fb7089839dcb0fb16",
+        "average": 653814310.0416666,
+        "profit_margin": 4601000
+    },
+    "ASTREA": {
+        "lowest": 2200000000,
+        "second_lowest": 2220000000,
+        "lowest_id": "none",
+        "average": 0,
+        "profit_margin": 20000000
+    },
+    "VALKYRIE": {
+        "lowest": 615000000,
+        "second_lowest": 620000000,
+        "lowest_id": "e1182073d01c4959899c9bcbb0e438c3",
+        "average": 649444333.3333334,
+        "profit_margin": 5000000
+    },
+    "SCYLLA": {
+        "lowest": 600000000,
+        "second_lowest": 609999999,
+        "lowest_id": "e0ce054208664418bc2a9f081dd90aa2",
+        "average": 613472221.75,
+        "profit_margin": 9999999
+    }
+}
