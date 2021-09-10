@@ -91,7 +91,7 @@ def updateListings(parent):  # Takes the parent thread manager object so the thr
             trueAverage = 0
 
         margin = prices[item]["second_lowest"] - prices[item]["lowest"]
-        prices[item]["average"] = int(trueAverage)
+        prices[item]["average"] = int(trueAverage)  # Cast to int to clean up the number, was like 10 decimal places
         prices[item]["profit_margin"] = margin
         pop = prices[item].pop("bins", "no bins?")
     
